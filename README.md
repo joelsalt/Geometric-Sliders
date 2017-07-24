@@ -21,7 +21,7 @@ Unfortunately I was still pretty naive when I made this and had attempted to tur
 # Live Version
 This game can be experimented with at http://gamejolt.com/games/geometric-sliders/22253
 
-![alt Screenshot]https://i.gjcdn.net/data/games/0/3/22253/screenshots/22253_40437_orig.png
+![alt Text]https://i.gjcdn.net/data/games/0/3/22253/screenshots/22253_40437_orig.png
 
 http://gamejolt.com/games/geometric-sliders/22253#screenshot-40436
 
