@@ -23,6 +23,6 @@ This game can be experimented with at http://gamejolt.com/games/geometric-slider
 
 ![alt text](https://i.gjcdn.net/data/games/0/3/22253/screenshots/22253_40437_orig.png)
 
-http://gamejolt.com/games/geometric-sliders/22253#screenshot-40436
+![alt text](https://i.gjcdn.net/data/games/0/3/22253/screenshots/22253_40436_orig.png)
 
-http://gamejolt.com/games/geometric-sliders/22253#screenshot-40435
+![alt text](https://i.gjcdn.net/data/games/0/3/22253/screenshots/22253_40435_orig.png)
