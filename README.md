@@ -1,3 +1,10 @@
+# BEFORE LOOKING AT THIS REPO
+Please understand that this was the first real coding project that I ever worked on, and as such does not represent any of my current professional skill or coding ability.
+
+I consider this to be my introduction to coding and it is important to me to preserve it. I understand that the coding patterns and styles contained in this repo are not representative of good, professional coding styles and patterns.
+
+Enjoy :)
+
 # Geometric-Sliders
 The first ever project/game I built.
 
